@@ -1,0 +1,15 @@
+{
+    "name": "zainuddin/php_composer",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0",
+        "ckeditor/ckeditor": "^4.15",
+        "ezyang/htmlpurifier": "^4.13"
+    },
+    "authors": [
+        {
+            "name": "zainuddin25",
+            "email": "zanukjepara@gmail.com"
+        }
+    ]
+}
